@@ -2,6 +2,10 @@
 ## Movie App 2020
 
 React Js Fundamentals Course 2020
+## 25th Sep
+>1. map 함수로 component 생성
+>2. import로 상대경로 이미지 삽입 
+>3. key props 넣기 , alternate 부분 mia.{dish mia} 
 
 ## 18th Sep
 >1. component 알아보기, JSX 합습
