@@ -2,6 +2,13 @@
 ## Movie App 2020
 
 React Js Fundamentals Course 2020
+## 16th Oct
+>1. 클래스형 컴포넌트
+>2. isLoading state
+>3. settimeout
+>4. axios 동작, axios.get
+## 5th  Oct
+ 올리지않음
 ## 25th Sep
 >1. map 함수로 component 생성
 >2. import로 상대경로 이미지 삽입 
