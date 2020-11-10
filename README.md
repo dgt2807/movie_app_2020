@@ -2,6 +2,11 @@
 ## Movie App 2020
 
 React Js Fundamentals Course 2020
+
+## 6th Nov
+>1.App캄포넌트 HTML추가
+>2.props 반환.추가
+
 ## 30th Oct
 >1.async, awit
 >2.movies.state 저장
