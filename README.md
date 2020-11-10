@@ -4,13 +4,13 @@
 React Js Fundamentals Course 2020
 
 ## 6th Nov
->1.App캄포넌트 HTML추가
->2.props 반환.추가
+>1. App캄포넌트 HTML추가
+>2. props 반환.추가
 
 ## 30th Oct
->1.async, awit
->2.movies.state 저장
->3.Movie 컴포넌트 추가
+>1. async, awit
+>2. movies.state 저장
+>3. Movie 컴포넌트 추가
 
 ## 16th Oct
 >1. 클래스형 컴포넌트
