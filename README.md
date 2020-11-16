@@ -3,6 +3,10 @@
 
 React Js Fundamentals Course 2020
 
+## 13th Nov
+>1. .slice( , ) 로  문자열 제한하기
+>2. 라우터 기능 react-router-dom 패키지, Hash router 
+
 ## 6th Nov
 >1. App캄포넌트 HTML추가
 >2. props 반환.추가
